@@ -9,6 +9,8 @@ A novel implementation of methodologies described in the following paper: The Ut
 This project focuses on predicting energy use via time series modeling. Specifically, energy use is modeled using linear regression (OLS), exponential smoothing, SARIMA, and ensemble models.</br>
 
 4) CADE</br></br>
+A novel implementation of methedologies described in the following paper: Classifier-Adjusted Density Estimation for Anomaly Detection and One-Class Classification: Lisa Friedland, Amanda Gentzel and David Jensen (https://pdfs.semanticscholar.org/e4e6/033069a8569ba16f64da3061538bcb90bec6.pdf). This script leverages supervised learning to find a solution to an unsupervised problem by creating fake event data comprised of uniform versions of variables from the original data set. Supervised models are built to classify the fake events and the real non-events. These models then score the original data to produce an anomaly score.
+
 
 
 
