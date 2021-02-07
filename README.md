@@ -11,6 +11,8 @@ A novel implementation of methedologies described in the following paper: Classi
 4) Time Series - Energy Prediction</br></br>
 This project focuses on predicting energy use via time series modeling. Specifically, energy use is modeled using linear regression (OLS), exponential smoothing, SARIMA, and ensemble models.</br>
 
+5) Target Shuffling</br></br>
+A novel implementation of methodologies described in the following paper: Evaluate the Vailidity of Your Discovery with Target Shuffling: John Elder)(https://www.elderresearch.com/wpcontent/uploads/2020/10/Whitepaper_Evaluate_the_Validity_of_Your_Discovery_with_Target_Shuffling.pdf). Target shuffling provides an straightfoward, easy to implement, and intuitive way to gauge the validity of modeling results.
 
 
 
